@@ -128,3 +128,7 @@ void deleteNode()
 }
 
 bool listEmpty()
+{
+	return (START == NULL);
+}
+
